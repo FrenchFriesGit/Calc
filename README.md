@@ -18,4 +18,4 @@ As the App operates offline and does not require an internet connection, there i
 This Privacy Policy may be updated from time to time. Any changes to the policy will be posted on the App's page, ensuring that you are always informed about the latest version.
 6. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: frenchfriesgit@gmail.com
+If you have any questions or concerns about this Privacy Policy, please make issue here.
