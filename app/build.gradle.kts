@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "com.frenchfriesgit.android.calc"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.frenchfriesgit.android.calc"
         minSdk = 26
-        targetSdk = 34
-        versionCode = 2
-        versionName = "1.1"
+        targetSdk = 35
+        versionCode = 3
+        versionName = "1.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
